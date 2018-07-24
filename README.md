@@ -1,9 +1,9 @@
-GZOSP
+Tesla
 ========
 
 To initialize your local repository, use this command:
 
-	repo init -u https://github.com/GZOSP/manifest.git -b 8.1
+	repo init -u https://github.com/Tesla-OS/manifest.git -b 8.1
 
 Submitting Patches
 ------------------
